@@ -1,2 +1,2 @@
 # farm-investment
-Backend system for farm-investment side project
+Backend system for Indonesian farm investment system side project
